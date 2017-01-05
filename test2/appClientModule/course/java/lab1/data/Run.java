@@ -70,7 +70,7 @@ public class Run {
 	        decoder.close();   
 		}
 		System.out.println("hello git!");
-		System.out.println("hello git 2!");
-		System.out.println("test 1");
+		System.out.println("hello git 1!");
+		System.out.println("test 2");
 	}
 }
