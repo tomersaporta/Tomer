@@ -69,5 +69,6 @@ public class Run {
 	        System.out.println(w4.toString());
 	        decoder.close();   
 		}
+		System.out.println("hello git!");
 	}
 }
