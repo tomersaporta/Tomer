@@ -18,6 +18,7 @@ public class Run {
 		
 		Worker w2= new Worker("Tomer", 25, 12351);
 		workers.add(new Worker("Shir", 23,1254));
+		workers.add(new Worker("yarden", 23,1254));
 		Worker w1 = new Worker();
 		//System.out.println(w1);
 		/*
